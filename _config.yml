@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Liqiang Huang / PHD"
 title_separator          : "-"
 name                     : &name "Liqiang Huang"
-description              : &description "I am currently a PhD student (2021-Now) at the University of Houston, Electrical and Computer Engineering Department, 
+description              : &description> "I am currently a PhD student (2021-Now) at the University of Houston, Electrical and Computer Engineering Department, 
 working with Dr. Roysam Badri. My main research focuses on developing computer vision (deep learning) algorithms, particularly self-supervised model,
 large vision language model, and generative model to solve the medical/biological complex images. Building on this foundation, I am extending these approaches to model quantization, 
 cell/crack segmentation, video interpolation and reduce artifacts/blur in microscopy images, seeking to build AI tools for biologists to analyze the complex bioimages."  
