@@ -22,14 +22,14 @@ I work on methods that can handle large, complex microscopy and spatial omics da
 ## Selected Projects
 
 ### 1) Self-supervised Multi-channel Brain Imaging
-A hierarchical self-supervised framework to learn structure-aware features from 15-channel imaging data for brain tissue topology analysis.
+A hierarchical self-supervised framework to learn structure-aware features from 15-channel imaging data for brain tissue anatomy analysis.
 
 ![Self-supervised multi-channel brain imaging](/images/F1.png)
 
 ### 2) Vision-Language AI for Spatial Proteomics
 A domain-adapted large vision-language pipeline with LoRA tuning and retrieval-augmented context for interpretable biomedical image understanding.
 
-![Vision-language spatial proteomics workflow](/images/f3.png)
+![Vision-language spatial proteomics workflow](/images/F4.png)
 
 ### 3) Cell Segmentation in Dense and Overlapping Regions
 A weak-to-strong learning strategy that integrates foundation-model priors to improve segmentation under severe cell overlap.
@@ -45,7 +45,7 @@ See the full list on the [Publications](/publications/) page.
 ## Education
 
 - **2020.08-present**: Ph.D. in Electrical and Computer Engineering, University of Houston
-- **2016.09-2020.06**: B.S. in Chemistry, Fuzhou University
+- **Before**: B.S. in Chemistry, Fuzhou University
 
 ## Teaching
 
