@@ -45,7 +45,6 @@ See the full list on the [Publications](/publications/) page.
 ## Education
 
 - **2020.08-present**: Ph.D. in Electrical and Computer Engineering, University of Houston
-- **Before**: B.S. in Chemistry, Fuzhou University
 
 ## Teaching
 
